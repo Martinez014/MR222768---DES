@@ -1,2 +1,2 @@
-# Guía 1
-Ejercicios de la Guía 1
+# Guía 2
+Ejercicios de la Guía 2
