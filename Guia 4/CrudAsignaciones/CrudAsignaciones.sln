@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37411.7 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudAsignaciones", "CrudAsignaciones\CrudAsignaciones.csproj", "{4928701B-45C9-4464-9713-40482C72941A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4928701B-45C9-4464-9713-40482C72941A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4928701B-45C9-4464-9713-40482C72941A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4928701B-45C9-4464-9713-40482C72941A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4928701B-45C9-4464-9713-40482C72941A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {58CC628C-2E7C-45C0-9610-BA55E47466EA}
+	EndGlobalSection
+EndGlobal

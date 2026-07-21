@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MR222768-DSE\\Guia 4\\CrudAsignaciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4928701B-45C9-4464-9713-40482C72941A}|CrudAsignaciones\\CrudAsignaciones.csproj|d:\\mr222768-dse\\guia 4\\crudasignaciones\\crudasignaciones\\views\\asignacion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4928701B-45C9-4464-9713-40482C72941A}|CrudAsignaciones\\CrudAsignaciones.csproj|solutionrelative:crudasignaciones\\views\\asignacion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\MR222768-DSE\\Guia 4\\CrudAsignaciones\\CrudAsignaciones\\Views\\Asignacion\\Index.cshtml",
+              "RelativeDocumentMoniker": "CrudAsignaciones\\Views\\Asignacion\\Index.cshtml",
+              "ToolTip": "D:\\MR222768-DSE\\Guia 4\\CrudAsignaciones\\CrudAsignaciones\\Views\\Asignacion\\Index.cshtml",
+              "RelativeToolTip": "CrudAsignaciones\\Views\\Asignacion\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwCAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-07-21T02:38:38.892Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
